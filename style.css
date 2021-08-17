@@ -1,0 +1,27 @@
+/*
+
+This is a demo of the library Vara.js
+https://github.com/akzhy/Vara
+http://vara.akzhy.com
+
+The content used here is a part from Harry Potter and the Chamber of Secrets, when Harry writes on Rom Riddle's diary.
+
+*/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  width: 80%;
+  margin: 20px auto;
+  min-height: 700px;
+}
+#container svg {
+  min-height: 700px;
+}
+.hidden {
+  width: 0;
+  opacity: 0;
+  overflow: hidden;
+}
